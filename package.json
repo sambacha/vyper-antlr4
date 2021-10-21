@@ -1,0 +1,7 @@
+{
+  "name": "vyper-antlr4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "sam bacha <sam@manifoldfinance.com>",
+  "license": "MIT"
+}
